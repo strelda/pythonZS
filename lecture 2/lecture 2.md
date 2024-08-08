@@ -11,5 +11,6 @@ python3 lecture\ 2/concatenation.py produces nothing, we need verbosing mode -v
 give solutions to tasks only up to the point where the majority got
 
 2 tasks, one for 7 the other for 14 days, because now you need to practice a lot (check and confirm this before the lecture)
+arent they too hard for 2. lecture?
 P1M: Sčítání zlomků
 P1M: Rozklad na součin prvočísel
