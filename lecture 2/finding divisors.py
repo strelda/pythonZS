@@ -20,7 +20,15 @@ def find_smallest_divisor(n: int) -> int:
 
     return n
 
+
+def check_divisor(n: int, smallest_divisor: int) -> str:
+    if smallest_divisor == n:
+        return str(n) + " is prime"
+    else:
+        return str(n) + " can be divided by " + str(smallest_divisor)
+
 n = int(input("Enter a number: "))
-print(find_smallest_divisor(n))
+smallest_divisor = find_smallest_divisor(n)
+print(check_divisor(n, smallest_divisor))
 
 

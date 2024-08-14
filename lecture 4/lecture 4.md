@@ -1,3 +1,5 @@
+what we will learn
+
 notebooks
     - they first learn the classes, so they can understand later how the list is a predefined class
     - draw the temperature boxes on board
@@ -6,3 +8,5 @@ lots of problems
 create task for classes before the lecture, based on their level
 
 NO Homework this week
+
+summarize what they learned

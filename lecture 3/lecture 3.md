@@ -1,5 +1,7 @@
 This is a slowdown lecture. Interactive programs are not so important for us, so advanced students can play with it and the rest will finish the problems from the last week.
 
+what will we learn
+
 notebooks
 lots of problems + continue on problems from the last week
     - demonstrate wishlist on the first task
@@ -10,3 +12,5 @@ There will be no homework next week.
     - two tasks for two weeks:
         P1M: K-tý největší prvek
         P1M: Vkládání prvků
+
+summarize what they learned
