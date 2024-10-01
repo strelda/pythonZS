@@ -1,5 +1,5 @@
 def next_color(col: str)->str:
-    """Takes a light color and returns the next on in a row.
+    """Takes a light color and returns the next one in a row.
     "red"->"orange"->"green"
     """
     if col=="red":
