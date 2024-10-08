@@ -11,7 +11,7 @@ notebooks
     - live show VS Code
     - write traffic_light as mentioned in 6 in front of them
 
-- continue from lecture 2 according to time
+- leave the rest for the lecture 2 according to time
 summarize what they learned
 
 P1M: Součet dvou čísel (ukázková úloha)

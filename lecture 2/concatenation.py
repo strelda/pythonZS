@@ -1,3 +1,7 @@
+# run as `python3 -m doctest -v concatenation.py`
+import doctest
+doctest.testmod()
+
 def concatenate(a: str, b: str)->str:
     """Concatenate two strings.
     
@@ -8,6 +12,3 @@ def concatenate(a: str, b: str)->str:
         'Hello here!'
     """
     return a + b
-
-# import doctest
-# doctest.testmod()

@@ -22,6 +22,7 @@ def find_smallest_divisor(n: int) -> int:
 
 
 def check_divisor(n: int, smallest_divisor: int) -> str:
+    """Based on number n and its smallest divisor, return if the number is prime or not."""
     if smallest_divisor == n:
         return str(n) + " is prime"
     else:

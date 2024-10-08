@@ -16,4 +16,4 @@ def is_valid_color(col: str)->bool:
 print(is_valid_color("red") == True)
 print(is_valid_color("green") == True)
 print(is_valid_color("orange") == True)
-print(is_valid_color("orange") == False)
+print(is_valid_color("black") == False)

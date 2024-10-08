@@ -1,4 +1,5 @@
 what will you learn?
+nest lecture is by Franek
 
 notebooks
     - debug *finding divisors.py* and rewrite it slowly to *finding divisors - final.py*
@@ -10,7 +11,7 @@ let them solve lots of problems and go among them
 
 python3 lecture\ 2/concatenation.py produces nothing, we need verbosing mode -v
 
-give solutions to tasks only up to the point where the majority got
+give advice for homeworks
 
 summarize what they learned
 
