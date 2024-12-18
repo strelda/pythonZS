@@ -1,4 +1,4 @@
-what we will learn
+GPTs, github Copilot,...
 
 notebooks
     - they first learn the classes, so they can understand later how the list is a predefined class
@@ -7,6 +7,6 @@ lots of problems
     - show the change on the example problem
 create task for classes before the lecture, based on their level
 
-NO Homework this week
+NO Homework this week, but finish the tasks (really do it)
 
 summarize what they learned
